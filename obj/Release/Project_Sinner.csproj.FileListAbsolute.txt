@@ -1,0 +1,12 @@
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\Project_Sinner.exe.config
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\Project_Sinner.exe
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\Project_Sinner.pdb
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\MetroFramework.Design.dll
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\MetroFramework.dll
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\bin\Release\MetroFramework.Fonts.dll
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.Form1.resources
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.Properties.Resources.resources
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.csproj.GenerateResource.Cache
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.exe
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.pdb
+c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.csprojResolveAssemblyReference.cache
