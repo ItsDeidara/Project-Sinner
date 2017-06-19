@@ -41,6 +41,7 @@ namespace Project_Sinner
         {
             if (_myPath.SelectedPath != "")
             {
+                Directory.CreateDirectory(_myPath.SelectedPath);
                 var client = new WebClient();
                 client.DownloadProgressChanged += Client_DownloadProgressChanged;
                 client.DownloadFileCompleted += Client_DownloadFileCompleted;
@@ -185,7 +186,7 @@ namespace Project_Sinner
 
         private void metroButton9_Click(object sender, EventArgs e)
         {
-            var version = "1.0.0.1";
+            var version = "1.0.1.1";
             var request = new WebClient();
             var update = request.DownloadString("https://pastebin.com/raw/Qj09Y1Ea");
             if (update.Contains(version))
@@ -211,7 +212,6 @@ namespace Project_Sinner
             if (result == DialogResult.OK)
             {
                 _myPath.SelectedPath = _myPath.SelectedPath + "\\Project Sinner";
-                Directory.CreateDirectory(_myPath.SelectedPath);
                 FolderTextBox.Text = _myPath.SelectedPath;
             }
         }

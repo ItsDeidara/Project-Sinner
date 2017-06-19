@@ -316,7 +316,7 @@
             this.OpenFolder.Location = new System.Drawing.Point(46, 799);
             this.OpenFolder.Margin = new System.Windows.Forms.Padding(6);
             this.OpenFolder.Name = "OpenFolder";
-            this.OpenFolder.Size = new System.Drawing.Size(222, 77);
+            this.OpenFolder.Size = new System.Drawing.Size(295, 77);
             this.OpenFolder.Style = MetroFramework.MetroColorStyle.Green;
             this.OpenFolder.TabIndex = 9;
             this.OpenFolder.Text = "Open Download Directory";
