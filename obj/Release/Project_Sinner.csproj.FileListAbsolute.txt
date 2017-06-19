@@ -10,3 +10,12 @@ c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinne
 c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.exe
 c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.pdb
 c:\users\jake\documents\visual studio 2017\Projects\Project_Sinner\Project_Sinner\obj\Release\Project_Sinner.csprojResolveAssemblyReference.cache
+C:\Users\ramsf\Source\Repos\Project-Sinner\bin\Release\Project_Sinner.exe.config
+C:\Users\ramsf\Source\Repos\Project-Sinner\bin\Release\Project_Sinner.exe
+C:\Users\ramsf\Source\Repos\Project-Sinner\bin\Release\Project_Sinner.pdb
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.csprojResolveAssemblyReference.cache
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.Form1.resources
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.Properties.Resources.resources
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.csproj.GenerateResource.Cache
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.exe
+C:\Users\ramsf\Source\Repos\Project-Sinner\obj\Release\Project_Sinner.pdb
